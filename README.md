@@ -21,7 +21,7 @@ Machine learning for Earth Sciences F2026-S2027 by [Mikhail Krinitskiy](https://
 | ДЗ №1 | 06.10.2026<br />дедлайн: **28.10.2026** | Постановка задач машинного обучения в науках о Земле | [описание](https://github.com/MKrinitskiy/ML4ES-F2026-S2027/tree/main/HW01/HW01-README.md)<br />[доска достижений](https://github.com/MKrinitskiy/ML4ES-F2026-S2027/tree/main/HW01/leaderboard.md) |
 | Лекция 5 | 13.10.2026 |  | [материалы]()<br />[видеозапись](https://ml4es.ru/links/2026-10-13-ML4ES2026-Lect05) |
 | Лекция 6 | --- |  | [материалы]()<br />[видеозапись]() |
-| Лекция 7 | 03.11.2025 |  | [материалы]()<br />[видеозапись](https://ml4es.ru/links/2026-10-13-ML4ES2026-Lect05) |
+| Лекция 7 | 03.11.2025 |  | [материалы]()<br />[видеозапись](https://ml4es.ru/links/2026-11-03-ML4ES2026-Lect07) |
 | Лекция 8 | 10.11.2025 | Оценка неопределенностей в задачах машинного обучения.<br />Метод Bootstrap. | [материалы]()<br />[видеозапись](https://ml4es.ru/links/2026-11-10-ML4ES2026-Lect08) |
 
 
