@@ -14,11 +14,15 @@ Machine learning for Earth Sciences F2026-S2027 by [Mikhail Krinitskiy](https://
 | Title | Date | Topic | Content |
 | ----- | ---- | ----- | ------- |
 |  |  | **I семестр** |  |
-| Лекция 1 | 08.09.2025 | Вводная лекция. Машинное обучение в науках о Земле. | [материалы](https://github.com/MKrinitskiy/ML4ES-F2026-S2027/tree/main/Lect01)<br />[видеозапись](https://ml4es.ru/links/2026-09-08-ML4ES2026-Lect01) |
-| Лекция 2 | 23.09.2025 | Машинное обучение в научном методе: постановка задач, признаки, модели и обобщение | [материалы](https://github.com/MKrinitskiy/ML4ES-F2026-S2027/tree/main/Lect02)<br />[видеозапись](https://ml4es.ru/links/2026-09-22-ML4ES2026-Lect02) |
-| Лекция 3 | 18.11.2025 | Типы задач машинного обучения: постановка, структура и свойства | [материалы](https://github.com/MKrinitskiy/ML4ES-F2026-S2027/tree/main/Lect03)<br />[видеозапись](https://ml4es.ru/links/2026-09-29-ML4ES2026-Lect03) |
-| Лекция 4 | 18.11.2025 | Примеры постановок задач МО в науках о Земле.<br />Разбор ДЗ №1 | [материалы](https://github.com/MKrinitskiy/ML4ES-F2026-S2027/tree/main/Lect04)<br />[видеозапись](https://ml4es.ru/links/2026-10-06-ML4ES2026-Lect04) |
-| ДЗ №1 | 18.11.2025<br />дедлайн: **28.11.2025** | Постановка задач машинного обучения в науках о Земле | [описание](https://github.com/MKrinitskiy/ML4ES-F2026-S2027/tree/main/HW01/HW01-README.md)<br />[доска достижений](https://github.com/MKrinitskiy/ML4ES-F2026-S2027/tree/main/HW01/leaderboard.md) |
+| Лекция 1 | 08.09.2026 | Вводная лекция. Машинное обучение в науках о Земле. | [материалы](https://github.com/MKrinitskiy/ML4ES-F2026-S2027/tree/main/Lect01)<br />[видеозапись](https://ml4es.ru/links/2026-09-08-ML4ES2026-Lect01) |
+| Лекция 2 | 22.09.2026 | Машинное обучение в научном методе: постановка задач, признаки, модели и обобщение | [материалы](https://github.com/MKrinitskiy/ML4ES-F2026-S2027/tree/main/Lect02)<br />[видеозапись](https://ml4es.ru/links/2026-09-22-ML4ES2026-Lect02) |
+| Лекция 3 | 29.09.2026 | Типы задач машинного обучения: постановка, структура и свойства | [материалы](https://github.com/MKrinitskiy/ML4ES-F2026-S2027/tree/main/Lect03)<br />[видеозапись](https://ml4es.ru/links/2026-09-29-ML4ES2026-Lect03) |
+| Лекция 4 | 06.10.2026 | Примеры постановок задач МО в науках о Земле.<br />Разбор ДЗ №1 | [материалы](https://github.com/MKrinitskiy/ML4ES-F2026-S2027/tree/main/Lect04)<br />[видеозапись](https://ml4es.ru/links/2026-10-06-ML4ES2026-Lect04) |
+| ДЗ №1 | 06.10.2026<br />дедлайн: **28.10.2026** | Постановка задач машинного обучения в науках о Земле | [описание](https://github.com/MKrinitskiy/ML4ES-F2026-S2027/tree/main/HW01/HW01-README.md)<br />[доска достижений](https://github.com/MKrinitskiy/ML4ES-F2026-S2027/tree/main/HW01/leaderboard.md) |
+| Лекция 5 | 13.10.2026 |  | [материалы]()<br />[видеозапись](https://ml4es.ru/links/2026-10-13-ML4ES2026-Lect05) |
+| Лекция 6 | --- |  | [материалы]()<br />[видеозапись]() |
+| Лекция 7 | 03.11.2025 |  | [материалы]()<br />[видеозапись](https://ml4es.ru/links/2026-10-13-ML4ES2026-Lect05) |
+| Лекция 8 | 10.11.2025 | Оценка неопределенностей в задачах машинного обучения.<br />Метод Bootstrap. | [материалы]()<br />[видеозапись](https://ml4es.ru/links/2026-11-10-ML4ES2026-Lect08) |
 
 
 
